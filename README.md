@@ -1,18 +1,23 @@
 - This project is used to emulate all functionalities proveded by File system
 
-**Platform requried**
+**Platform requried** :
+
   window NT platform OR Linax Distributions
 
-**Architectural requirement**
+**Architectural requirement** :
+
   Intel 32 bit processor
 
-**user Interface**
+**user Interface** :
+
   Command User Interface
 
-**SDK used**
+**SDK used** :
+
   None
 
-**Technology used**
+**Technology used**:
+
   System Programming Using C
 
 **About virtual File System**
